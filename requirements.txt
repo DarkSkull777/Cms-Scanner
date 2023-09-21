@@ -1,0 +1,6 @@
+requests
+colorama
+sys
+re
+Pool
+pprint
